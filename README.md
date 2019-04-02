@@ -4,7 +4,7 @@ You will be designing a responsive web app that allows a user to put together a 
 ## Objective
 The purpose of this exercise is to give you an opportunity to demonstrate your design and front end development skills using Javascript, [React.js](https://reactjs.org/), and [Material UI](https://material-ui.com/).
 
-## Workload
+## Time Limits
 We don’t enforce a strict time limit but we do consider the time taken to complete a submission. It's used to decide between submissions of equal quality. We also review exercises in the order that they are received, not in the order they were given out.
 
 ## Code Requirements
