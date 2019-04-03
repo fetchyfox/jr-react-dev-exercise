@@ -8,7 +8,7 @@ The purpose of this exercise is to give you an opportunity to demonstrate your d
 We don’t enforce a strict time limit but we do consider the time taken to complete a submission. It's used to decide between submissions of equal quality. We also review exercises in the order that they are received, not in the order they were given out.
 
 ## Code Requirements
-Your project **must** use React and Material UI "mui" components. JSX allows using standard HTML elements but these must be used sparingly. Additional libraries can be used as you see necessary (you may be asked why you chose those libraries). 
+Your project **must** use React and Material UI "mui" components. JSX allows using standard HTML elements but these must be used sparingly. Additional libraries can be used as you see necessary (you may be asked why you chose those libraries).
 
 ## Features
 This is the minimum required functionality/feature your project must have:
@@ -19,7 +19,7 @@ This is the minimum required functionality/feature your project must have:
 
 - A way to add items to a shopping cart.
 
-- A "shopping cart" feature showing all added items with their quantities and any customization options. 
+- A "shopping cart" feature showing all added items with their quantities and any customization options.
 
 - A way to switch between the shopping cart and “main screen”
 
@@ -30,7 +30,7 @@ This is the minimum required functionality/feature your project must have:
 ## Review
 Visual and interaction design will have the largest impact. As long as your submission builds and has the required features listed above we won’t penalize for a lack of functionality.
 
-Code structure, the “design” or your code, will also be judged for maintainability, expandability, and understandability. The majority of energy devoted to a project isn’t with developing it, but with maintaining it. 
+Code structure, the “design” or your code, will also be judged for maintainability, expandability, and understandability. The majority of energy devoted to a project isn’t with developing it, but with maintaining it.
 
 
 ## Submitting and Testing
@@ -52,7 +52,7 @@ Send all questions / comments / concerns to [engineering@fetchyfox.com](mailto:e
 
 -  The datasets we provide are free to use and are also distributed under the [GNU General Public License v3](https://choosealicense.com/licenses/gpl-3.0/)
 
-- The *images* provided through the datasets are distributed under the [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/) license. **They cannot be used for commercial purposes**
+- The *images* provided through the datasets are distributed under the [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. **They cannot be used for commercial purposes**
 
 - You **must obtain explicit permission** to use any FetchyFox marketing / branding assets such as, but not limited to, any logos, wordmarks, and trademarks.
 
