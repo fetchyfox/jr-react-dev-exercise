@@ -13,15 +13,13 @@ Your project **must** use React and Material UI "mui" components. JSX allows usi
 ## Features
 This is the minimum required functionality/feature your project must have:
 
-- A way to browse all available items, the “main screen”.
+- A way to browse all available items
 
-- A way to show item details  as well as any available item customizations when an item is selected from the menu. Not all items will have customization options.
+- A way to browse an item's customization options (not all items have options)
 
 - A way to add items to a shopping cart.
 
-- A "shopping cart" feature showing all added items with their quantities and any customization options.
-
-- A way to switch between the shopping cart and “main screen”
+- A way to view all added items
 
 **Pro-Tip**: Functionality will not be a major differentiator so be creative with your interaction and visual designs.
 
@@ -30,7 +28,7 @@ This is the minimum required functionality/feature your project must have:
 ## Review
 Visual and interaction design will have the largest impact. As long as your submission builds and has the required features listed above we won’t penalize for a lack of functionality.
 
-Code structure, the “design” or your code, will also be judged for maintainability, expandability, and understandability. The majority of energy devoted to a project isn’t with developing it, but with maintaining it.
+Code structure, the “design” or your code, will also be reviewed for maintainability, expandability, and understandability. The majority of energy devoted to a project isn’t with developing it, but with maintaining it.
 
 
 ## Submitting and Testing
@@ -42,7 +40,7 @@ npm install
 npm start
 ```
 
-We will be the Chrome developer console to test the app on both mobile and desktop/laptops screen sizes.
+We will be using the Chrome developer console to test the app on both mobile and desktop/laptops screen sizes.
 
 ## Questions:
 Send all questions / comments / concerns to [engineering@fetchyfox.com](mailto:engineering@fetchyfox.com)
