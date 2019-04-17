@@ -1,3 +1,6 @@
+# About Us
+FetchyFox is creating the next generation of e-commerce platform for airports. Our first product on this platform is a mobile-ordering service that offers gate delivery to travelers in the airport. Learn more here: https://www.fetchyfox.com/
+
 # React Frontend Coding Exercise
 You will be designing a responsive web app that allows a user to put together a food order and then view it in a shopping cart. If you’ve made any online purchases then this flow should be familiar.
 
@@ -32,15 +35,18 @@ Code structure, the “design” or your code, will also be reviewed for maintai
 
 
 ## Submitting and Testing
-Compress your project and email it to [engineering@fetchyfox.com](mailto:engineering@fetchyfox.com) and include your name.
+Please submit your completed coding challenge to [engineering@fetchyfox.com](mailto:engineering@fetchyfox.com) and include your name. 
 
-All we're going to do is extract your project and run:
+Either include the link to a public repo (GihHub, BitBucket, etc) or as a single attached compressed file.
+
+Once we clone/extract the files we're going to run the following commands:
 ```
 npm install
 npm start
 ```
 
 We will be using the Chrome developer console to test the app on both mobile and desktop/laptops screen sizes.
+
 
 ## Questions:
 Send all questions / comments / concerns to [engineering@fetchyfox.com](mailto:engineering@fetchyfox.com)
