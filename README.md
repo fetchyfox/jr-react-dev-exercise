@@ -35,7 +35,7 @@ Code structure, the “design” or your code, will also be reviewed for maintai
 
 
 ## Submitting and Testing
-Please submit your completed coding challenge to [engineering@fetchyfox.com](mailto:engineering@fetchyfox.com) and include your name. 
+This exercise is designed to be a self-contained stand alone project. Your submission should not require the use of any special environment variables or keys. Please submit your completed coding challenge to [engineering@fetchyfox.com](mailto:engineering@fetchyfox.com) and include your name. 
 
 Either include the link to a public repo (GihHub, BitBucket, etc) or as a single attached compressed file.
 
