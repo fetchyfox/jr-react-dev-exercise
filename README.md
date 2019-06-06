@@ -13,6 +13,8 @@ We don’t enforce a strict time limit but we do consider the time taken to comp
 ## Code Requirements
 Your project **must** use React and Material UI "mui" components. JSX allows using standard HTML elements but these must be used sparingly. Additional libraries can be used as you see necessary (you may be asked why you chose those libraries).
 
+We highly recommend using the [create-react-app](https://github.com/facebook/create-react-app) boiler plate.
+
 ## Features
 This is the minimum required functionality/feature your project must have:
 
@@ -24,12 +26,12 @@ This is the minimum required functionality/feature your project must have:
 
 - A way to view all added items
 
-**Pro-Tip**: Functionality will not be a major differentiator so be creative with your interaction and visual designs.
+**Pro-Tip**: The above ffunctionality will not be a major differentiator so be creative with your interaction and visual designs.
 
-**Pro-Tip #2**: if you want to spend extra time building out your project, then we recommend using that time to improve design aspects rather than implementing new functionality.
+**Pro-Tip #2**: if you want to spend extra time building out your project, then we recommend using that time to improve design aspects rather than implementing other functionality.
 
 ## Review
-Visual and interaction design will have the largest impact. As long as your submission builds and has the required features listed above we won’t penalize for a lack of functionality.
+Visual and interaction design will have the largest impact. As long as your submission builds and has the required features listed above we won’t penalize for a lack more functionality.
 
 Code structure, the “design” or your code, will also be reviewed for maintainability, expandability, and understandability. The majority of energy devoted to a project isn’t with developing it, but with maintaining it.
 
@@ -45,7 +47,7 @@ npm install
 npm start
 ```
 
-We will be using the Chrome developer console to test the app on both mobile and desktop/laptops screen sizes.
+We will be using the Chrome developer console to test the app on both mobile and desktop/laptops screen sizes. 
 
 
 ## Questions:
