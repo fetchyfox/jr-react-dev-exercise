@@ -2,7 +2,7 @@
 FetchyFox is creating the next generation of e-commerce platform for airports. Our first product on this platform is a mobile-ordering service that offers gate delivery to travelers in the airport. Learn more here: https://www.fetchyfox.com/
 
 # React Frontend Coding Exercise
-You will be designing a responsive web app that allows a user to put together a food order and then view it in a shopping cart. If you’ve made any online purchases then this flow should be familiar.
+You will be designing a consumer-facing responsive web app that allows a user to put together a food order and then view it in a shopping cart. If you’ve made any online purchases then this flow should be familiar.
 
 ## Objective
 The purpose of this exercise is to give you an opportunity to demonstrate your design and front end development skills using Javascript, [React.js](https://reactjs.org/), and [Material UI](https://material-ui.com/).
